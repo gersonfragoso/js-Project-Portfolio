@@ -37,18 +37,18 @@
 }
 
 .information .person::before{
-    background-image: url('/assets/imgs/icons/person.svg');
+    background-image: url('..//imgs/icons/person.svg');
 }
 .information .location::before{
-    background-image: url('/assets/imgs/icons/location.svg');
+    background-image: url('..//imgs/icons/location.svg');
 }
 
 .information .number::before{
-    background-image: url('/assets/imgs/icons/number.svg');
+    background-image: url('..//imgs/icons/number.svg');
 }
 
 .information .email::before{
-    background-image: url('/assets/imgs/icons/email.svg');
+    background-image: url('..//imgs/icons/email.svg');
 }
 @media only screen and (min-width: 768px) {
     .header{

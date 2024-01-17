@@ -1,0 +1,30 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 0;
+    list-style: none;
+}
+
+.education ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 1rem 0;
+}
+.education li .tittle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: .5rem;
+}
+.education li .period{
+    display: flex;
+    flex-direction: start;
+    align-items: center;
+    font-weight: 400;
+    margin: 0 0 1.25rem;
+}

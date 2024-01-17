@@ -23,6 +23,6 @@
     height: 1rem;
     background-repeat: no-repeat ;
     background-size: contain;
-    background-image: url(assets/imgs/icons/verify-arrow.svg);
+    background-image: url('/assets/imgs/icons/verify-arrow.svg');
     margin: .5rem;
 }
